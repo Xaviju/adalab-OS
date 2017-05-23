@@ -1,21 +1,18 @@
-#Objetivo
+# Objetivo
 - Conocer el software libre, romper mitos y descubrir como participar.
 
-#Distopía
+# Distopía
 - Imagina un mundo:
   - Donde una empresa puede decidir qué puedes usar y qué no.
   - Los gobiernos pueden espíar a los ciudadanos
   - Donde un grupo de empresas deciden cómo se crean las leyes
-  - Tus documentos, trabajos, dependen de empresas externas - Open Standards (Miguel me pasa un podcast) 
-  - http://www.pcworld.com/article/2146903/lost-andy-warhol-art-recovered-from-1980s-amiga-floppy-disks.html
-  - https://www.theverge.com/2014/4/24/5646554/andy-warhols-lost-amiga-computer-art-photo-essay
+  - Tus documentos, trabajos, dependen de empresas externas
   - Donde solo los que tienen dinero suficiente pueden participar
-    - Documentos de Word, o hacer trámites en Explorer.
   - Donde la gente que no lo tiene, se ve obligada a robar para vivir.
 
 > Pues ese primer mundo es en el que vivimos
 
-#Utopía
+# Utopía
 - Y un día, un extraño os cuenta que existe una isla donde un grupo de personas han escapado. 
 > Libro Utopía.
   - Se construye en comunidad organizado por intereses personales.
@@ -57,7 +54,7 @@
   - Aportar en otro código. Comunidad amistosa.
   - Crear mis bibliotecas. 
   - Que otros aporten a mis bibliotecas. Explicar cómo funciona.
-  - Trabajar en un gran proyecto: Taiga. Me da de comer.
+  - Trabajar en un gran proyecto: Taiga.
 
 ## Cómo puedes empezar con Open Source.
   
@@ -68,8 +65,7 @@
   - resolviendo dudas, documentando.
   - Creando proyectos que no existen: Open Data
   - Formar parte de un proyecto. Mentores.
-  - Otros tipos de Open Source: Open Knowledge, Open Architecture, Open Hardware, Open Ropa...
-  https://www.ted.com/talks/marcin_jakubowski?language=es
+  - Otros tipos de Open Source: Open Knowledge, Open Architecture, Open Hardware, Valentina...
   - Open Source Weekends y otras comunidades.
   - Presento Open Source Design. 
   - Estamos empezando esa revolución
